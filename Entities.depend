@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1351437990 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\canimation.cpp
+	"CAnimation.h"
+
+1351437990 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\canimation.h
+	<SDL.h>
+
+1351437990 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.cpp
+	"CApp.h"
+
+1351437991 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.h
+	<SDL.h>
+	"CAnimation.h"
+	"CEntity.h"
+	"CEvent.h"
+	"CSurface.h"
+
+1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\centity.h
+	<vector>
+	"CAnimation.h"
+	"CSurface.h"
+
+1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.h
+	<SDL.h>
+
+1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cevent.h
+	<SDL.h>
+
+1351437991 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_oncleanup.cpp
+	"CApp.h"
+
+1351437991 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onevent.cpp
+	"CApp.h"
+
+1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_oninit.cpp
+	"CApp.h"
+
+1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onloop.cpp
+	"CApp.h"
+
+1351439416 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onrender.cpp
+	"CApp.h"
+
+1351439416 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\centity.cpp
+	"CEntity.h"
+
+1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cevent.cpp
+	"CEvent.h"
+
+1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.cpp
+	"CSurface.h"
+
