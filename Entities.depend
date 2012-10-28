@@ -1,11 +1,11 @@
 # depslib dependency file v1.0
-1351437990 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\canimation.cpp
+1351439685 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\canimation.cpp
 	"CAnimation.h"
 
 1351437990 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\canimation.h
 	<SDL.h>
 
-1351437990 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.cpp
+1351444165 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.cpp
 	"CApp.h"
 
 1351437991 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.h
@@ -20,8 +20,9 @@
 	"CAnimation.h"
 	"CSurface.h"
 
-1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.h
+1351442586 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.h
 	<SDL.h>
+	<SDL_image.h>
 
 1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cevent.h
 	<SDL.h>
@@ -47,6 +48,6 @@
 1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cevent.cpp
 	"CEvent.h"
 
-1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.cpp
+1351442586 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.cpp
 	"CSurface.h"
 
