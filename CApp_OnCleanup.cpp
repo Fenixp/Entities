@@ -14,6 +14,8 @@ void CApp::OnCleanup() {
 
     CEntity::EntityList.clear();
 
+    CArea::AreaControl.OnCleanup();
+
     SDL_FreeSurface(Surf_Display);
     SDL_Quit();
 }

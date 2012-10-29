@@ -8,12 +8,15 @@
 1351444165 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.cpp
 	"CApp.h"
 
-1351437991 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.h
+1351531659 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp.h
 	<SDL.h>
 	"CAnimation.h"
 	"CEntity.h"
 	"CEvent.h"
 	"CSurface.h"
+	"Define.h"
+	"CArea.h"
+	"CCamera.h"
 
 1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\centity.h
 	<vector>
@@ -27,19 +30,19 @@
 1351437992 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cevent.h
 	<SDL.h>
 
-1351437991 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_oncleanup.cpp
+1351531651 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_oncleanup.cpp
 	"CApp.h"
 
-1351437991 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onevent.cpp
+1351532064 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onevent.cpp
 	"CApp.h"
 
-1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_oninit.cpp
+1351532081 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_oninit.cpp
 	"CApp.h"
 
 1351437992 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onloop.cpp
 	"CApp.h"
 
-1351439416 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onrender.cpp
+1351531651 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\capp_onrender.cpp
 	"CApp.h"
 
 1351439416 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\centity.cpp
@@ -50,4 +53,34 @@
 
 1351442586 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\csurface.cpp
 	"CSurface.h"
+
+1351459650 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\define.h
+
+1351507196 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\carea.h
+	"CMap.h"
+
+1351531877 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cmap.h
+	<SDL.h>
+	<vector>
+	"CTile.h"
+	"CSurface.h"
+
+1351460561 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\ctile.h
+	"Define.h"
+
+1351531986 c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\ccamera.h
+	<SDL.h>
+	"Define.h"
+
+1351507196 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\carea.cpp
+	"CArea.h"
+
+1351532165 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\ccamera.cpp
+	"CCamera.h"
+
+1351532312 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\cmap.cpp
+	"CMap.h"
+
+1351532321 source:c:\users\fenixp\documents\c++\sdltut\updsdltut 6\entities\ctile.cpp
+	"CTile.h"
 

@@ -10,6 +10,9 @@
 #include "CEntity.h"
 #include "CEvent.h"
 #include "CSurface.h"
+#include "Define.h" 
+#include "CArea.h"
+#include "CCamera.h"
 
 //==============================================================================
 class CApp : public CEvent {
@@ -39,6 +42,8 @@ class CApp : public CEvent {
         void OnRender();
 
         void OnCleanup();
+
+        void OnKeyDown(SDLKey sym, SDLMod mod, Uint16 unicode);
 };
 
 //==============================================================================
